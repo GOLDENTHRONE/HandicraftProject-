@@ -1,0 +1,210 @@
+body{
+    margin:auto;
+}
+.container
+{
+    height:400%;
+    width:100%;
+    /* border:2px solid red; */
+    
+}
+
+.container1
+{
+    height:60px;
+    width:100%;
+    /* border:2px solid rgb(52, 55, 221); */
+    background-color: white;
+    /* opacity: 20%; */
+    
+    
+}
+.container1>img
+{
+    height:58px;
+    width:62px;
+    border-radius: 30px;
+    margin-left: 1%;
+    
+}
+.container1>span{
+    margin-left: 5%;
+    float:right;
+    margin-top:3% ;
+    font-size:18px;
+    font-weight: bold;
+}
+.container2
+{
+    height:500px;
+    width:100%;
+    /* border:2px solid rgb(45, 125, 190); */
+    
+}
+.container2>video
+{
+    height:500px;
+    width:100%;
+    object-fit: cover;
+    position :absolute;
+    background-size: cover ;
+    /* border:2px solid rgb(45, 125, 190); */
+    /* opacity: 20%; */
+   
+    
+    
+}
+.overlay
+{
+    position:absolute;
+    border-radius: 11%;
+    height:250px;
+    width:556px;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: 26%;
+    opacity:60%;
+}
+.texts>h1
+{
+    position: absolute;
+    height:40px;
+    width:40px;
+    color:rgb(224 8 242);
+    margin-left:39%;
+    font-size:39px ;
+    font-style: italic;
+}
+.subtext>h1
+{
+    position: absolute;
+    /* height:40px;
+    width:40px; */
+    color:white;
+    margin-left:25%;
+    margin-top:90px;
+    font-size:35px ;
+    font-style: italic;
+}
+.subsubtext>h3
+{
+    position: absolute;
+    /* height:40px;
+    width:40px; */
+    color:white;
+    margin-left:10%;
+    margin-top:150px;
+    font-size:20px ;
+}
+
+.container3
+{
+    
+    height:350px;
+    width:100%;
+    /* border:2px solid rgb(85, 197, 113); */
+
+}
+.imgs
+{
+    height: 81%;
+    width:93%;
+    /* border: 2px solid green; */
+    margin-top:30px;
+    margin-left:3%;
+}
+.imgd
+{
+    height: 82%;
+    width:41%;
+    /* border: 2px solid rgb(34, 0, 128); */
+    margin-top:25px;
+    margin-left:3%;
+
+
+}
+.imgd>video{
+    height:47%;
+    width:38%;
+    object-fit: cover;
+    position :absolute;
+    background-size: cover ;
+    box-shadow:12px 14px 21px grey; 
+}
+.imgdtext>p
+{
+    height: 82%;
+    width:45%;
+    margin-top:-19%;
+    margin-left:51%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;  
+    
+
+}
+.imgdtext>span
+{
+    height: 82%;
+    width:45%;
+    margin-top:-19%;
+    margin-left:51%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;  
+    
+
+}
+.buttons>button{
+    height:10%;
+    width:10%;
+    margin-left:65%;
+    margin-top:-7%;
+    background-color: rgb(241, 72, 213);
+    color: white;
+    border-radius:15%;
+}
+.buttons0>button{
+    height:10%;
+    width:25%;
+    margin-left:36%;
+    margin-top:36%;
+    background-color:rgb(252 3 210);
+    color: white;
+    border-radius:15%;
+    font-weight: bold;
+}
+.container4
+{
+    height:900px;
+    width:100%;
+    border:2px solid rgb(166, 201, 11);
+    opacity:65%;
+    background-image: url("pexels-angela-roma-7364065.jpg");
+     background-size:100% 900px;
+     background-repeat: no-repeat;
+     
+
+}
+
+.arrivals
+{
+    height:700px;
+    width:80%;
+    border:2px solid rgb(207, 29, 168);
+    margin-left:5%;
+    
+}
+.container5
+{
+    height:250px;
+    width:100%;
+    border:2px solid rgb(17, 224, 45);
+
+}
+.container6
+{
+    height:130px;
+    width:100%;
+    border:2px solid rgb(150, 15, 44);
+
+}
+
